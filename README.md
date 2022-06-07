@@ -1,2 +1,2 @@
 # marcDriveRobot
-matlab and arduino code for robot
+matlab code for robot
